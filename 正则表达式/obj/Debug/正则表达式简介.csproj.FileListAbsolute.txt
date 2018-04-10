@@ -1,0 +1,9 @@
+C:\Users\neil.zhu\Desktop\正则表达式\正则表达式\bin\Debug\正则表达式.exe.config
+C:\Users\neil.zhu\Desktop\正则表达式\正则表达式\bin\Debug\正则表达式.exe
+C:\Users\neil.zhu\Desktop\正则表达式\正则表达式\bin\Debug\正则表达式.pdb
+C:\Users\neil.zhu\Desktop\正则表达式\正则表达式\obj\Debug\正则表达式.Form1.resources
+C:\Users\neil.zhu\Desktop\正则表达式\正则表达式\obj\Debug\正则表达式.Properties.Resources.resources
+C:\Users\neil.zhu\Desktop\正则表达式\正则表达式\obj\Debug\正则表达式简介.csproj.GenerateResource.Cache
+C:\Users\neil.zhu\Desktop\正则表达式\正则表达式\obj\Debug\正则表达式.exe
+C:\Users\neil.zhu\Desktop\正则表达式\正则表达式\obj\Debug\正则表达式.pdb
+C:\Users\neil.zhu\Desktop\正则表达式\正则表达式\obj\Debug\正则表达式简介.csprojResolveAssemblyReference.cache
